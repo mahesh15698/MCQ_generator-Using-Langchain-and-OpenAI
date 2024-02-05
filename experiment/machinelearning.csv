@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the fundamental concept behind Machine Learning?,"a: Extraction of meaningful insights from data through the identification of patterns, correlations, and trends | b: Explicit programming to make predictions or decisions | c: Training algorithms on vast datasets to improve efficiency | d: Interacting with an environment to receive feedback",a
+Which type of Machine Learning deals with unlabeled data?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Deep learning,b
+What is one of the applications of Machine Learning in healthcare?,a: Customer segmentation | b: Algorithmic trading | c: Disease diagnosis | d: Risk assessment,c
+What are some challenges in Machine Learning?,a: Ethical considerations and bias in algorithms | b: Data privacy concerns and interpretability of complex models | c: All of the above | d: None of the above,c
+What is the future potential impact of Machine Learning?,a: Transform industries and solve complex problems | b: Drive efficiency and enhance performance | c: Shape the future of artificial intelligence | d: All of the above,d
