@@ -46,6 +46,48 @@ Setup langchain chain use document
 streamlit run app.py
 
 ```
+## AWS Deployement Setup
+
+### 1. [First login to the AWS](https://aws.amazon.com/console/)
+
+### 2. search about the EC2
+
+### 3. You need to config the UBUNTU Machine
+
+### 4. Launch the instance
+
+### 5. update the machine:
+```
+sudo apt update
+```
+```
+sudo apt-get update
+```
+```
+sudo apt upgrade -y
+```
+```
+sudo apt install git curl unzip tar make sudo vim wget -y
+```
+```
+git clone "Your-repository"
+```
+```
+sudo apt install python3-pip
+```
+```
+pip3 install -r requirements.txt
+```
+```
+python3 -m streamlit run StreamlitAPP.py
+```
+### 6. if you want to add openai api key
+```
+create .env file in your server touch .env
+```
+### 7. vi .env #press insert #copy your api key and paste it there #press and then :wq and hit enter
+
+### 8. Go with security and add the inbound rule add the port 8501
 
 ### Access the application in your web browser at the provided URL.
 
@@ -59,6 +101,6 @@ streamlit run app.py
 # Acknowledgements
 #### This project uses OpenAI's GPT-3.5 language model for text generation.
 #### Streamlit is used for building the user interface.
-
+#### AWS EC2 is used for App deployement
 # Contact
 #### For questions or inquiries, please contact maheshjadhav7979@gmail.com.
