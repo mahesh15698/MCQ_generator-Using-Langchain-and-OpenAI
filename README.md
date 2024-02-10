@@ -32,7 +32,11 @@ pip install -r requirements.txt
 ```
 OPENAI_API_KEY=your_openai_api_key
 ```
-### 5.Usage
+### 5.Set up environment variables:
+```
+Setup langchain chain use document
+```
+### 6.Usage
 ##### Run the Streamlit application:
 
 ```
