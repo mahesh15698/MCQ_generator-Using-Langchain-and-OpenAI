@@ -65,6 +65,9 @@ with st.form("user inputs"):
                             df.index=df.index+1
                             st.table(df)
                             #display the review in a text box as well 
+                            
+                            df.to_csv("machinelearning.csv",index=False)
+
                         else:
                             st.error("Error in the table data")
                 else:
