@@ -1,5 +1,8 @@
 # MCQ Project Generator
 This is a Python-based application for generating multiple-choice quizzes using OpenAI's GPT-3.5 language model, Langchain Framework and Streamlit for the user interface.
+
+# User Interface on Streamlit
+![Interface](https://github.com/mahesh15698/MCQ_generator_Using_Langchain_and_OpenAI/blob/main/experiment/mqsoutput.PNG)
 # Features
 
 #### Generate multiple-choice quizzes from text files or PDFs.
